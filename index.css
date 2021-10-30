@@ -27,6 +27,23 @@ h1{
 }
 p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 120px;
+}
+.floatingImg{
+    float: right;
+    margin-top: 0ch;
+    display: inline;
 }
 .section1{
+    margin-top: 10;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+button{
+    margin-left: 40px;
+    background-color: #f6b400;
+    border-color: #f6b400;
+    color: aliceblue;
+    border-radius: 15px;
+    border-bottom-right-radius: 2px;
 }
