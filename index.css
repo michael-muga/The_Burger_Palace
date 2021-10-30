@@ -1,8 +1,32 @@
 h2{
-    margin-top: 100px;
-    margin-bottom: 50px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 nav{
     float:  right;
-    
+    top: 0;
+    position: static;
+    right: 0;       
+}
+nav ul{
+    margin-top: 6% ;
+}
+nav li{
+    display: inline;
+    margin-right: 2em;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+h1{
+    display: inline;
+    font-size: large;
+    font-size: larger;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section1{
 }
