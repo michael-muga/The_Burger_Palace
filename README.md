@@ -1,5 +1,5 @@
 # The_Burger_Palace
-## This is a none responsive user interface for a the burgar palave online platform
+## This is a none responsive user interface for a The Burger palace online platform
 ##contributions made by michael-muga
 ##Description
 This model ui illustrates the different fuctionalities and pages that would be available in the online plarform
