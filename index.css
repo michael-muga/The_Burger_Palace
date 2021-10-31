@@ -123,16 +123,21 @@ div.section2{
 .menu h3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: maroon;
-    font-size: larger;
+    font-size: x-large;
     position: relative;
-    top: 120px;
+    top: 50px;
     left: 80px;
 }
 .menu p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    font-size: medium;
+    font-size: small;
     position: relative;
-    top: 120px;
+    top: 40px;
+}
+.menu img{
+    position: relative;
+    top: 50px;
+    left: 120px;
 }
 
