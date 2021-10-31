@@ -156,7 +156,7 @@ div.section2{
     right: 140px;
 }
 .section5{
-    margin-bottom: 300px;
+    margin-bottom: 00;
     background-color: #f6b400;
 }
 .section5 h2{
@@ -167,9 +167,24 @@ div.section2{
     position: relative;
     top: 150px;
 }
+.section5 img{
+    margin-left: 10%;
+    margin-bottom: 20%;
+    
+}
+
 .maplist{
     float: right;
     position: relative;
     right: 900px;
     bottom: 180px;
+}
+.newsletter{
+    float: right;
+    position: relative;
+    bottom: 380px;
+}
+.section6{
+    margin-top: 00;
+    margin-bottom: 20%;
 }
