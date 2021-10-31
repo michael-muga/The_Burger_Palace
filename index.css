@@ -64,7 +64,7 @@ div.section2{
     border-radius: 8px;
 }
 #second{
-    height: 400px;
+    height: 380px;
     position: relative;
     bottom: 30px;
 
@@ -74,6 +74,17 @@ div.section2{
     top: 130px;
     left: 110px;
 
+}
+#second p{
+    position: relative;
+    top: 130px;
+}
+.section2 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: medium;
+    position: relative;
+    top: 100px;
 }
 .section2 h3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
