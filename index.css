@@ -119,6 +119,7 @@ div.section2{
     width: 350px;
     margin: 30px;
     margin-right: 50px;
+    margin-bottom: 150px;
 }
 .menu h3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -140,4 +141,23 @@ div.section2{
     top: 50px;
     left: 120px;
 }
+.section4{
+    margin-left: 50px;
+    margin-bottom: 200px;
 
+
+}
+.section4 h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    margin-left: 30px;
+}
+.section4 p{
+    margin-left: 60px;
+}
+.section4 #image1{
+    float: right;
+    position: relative;
+    bottom: 250px;
+    right: 300px;
+}
